@@ -1,4 +1,4 @@
-package exception;
+package com.example.demoproject.exception;
 
 
 public class ElementException extends Exception{
